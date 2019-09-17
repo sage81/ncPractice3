@@ -4,7 +4,7 @@ import com.netcracker.edu.inventory.model.Device;
 import com.netcracker.edu.inventory.model.Rack;
 import com.netcracker.edu.inventory.model.impl.*;
 import com.netcracker.edu.inventory.service.impl.ServiceImpl;
-//test
+
 public class Main {
 
     public static void main(String[] args) {
