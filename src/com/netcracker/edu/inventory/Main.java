@@ -26,17 +26,9 @@ public class Main {
 
         service.filtrateByType(devices, null);
         service.sortByIN(devices);
+
         System.out.println("*******************************************************************");
         showDevArray(devices);
-
-//        fillRack(devices, rack);
-
-//        WifiRouter wifiRouter = new WifiRouter(11, "WifiRouter1", "Wifi Corp", "Wifi model5", null, 1000,
-//                "PROT4");
-
-//        rack.insertDevToSlot(wifiRouter, 10);
-
-//        showRack(rack);
 
     }
 
